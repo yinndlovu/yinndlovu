@@ -6,3 +6,4 @@ I am Yin
 - I mostly work with Java
 - I am a backend developer, probably full stack soon
 - I like creating and working on Discord bots as well as Chrome extensions
+- Currently working on a mobile app for my Facebook page (football)
