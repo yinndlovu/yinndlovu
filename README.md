@@ -6,3 +6,4 @@ I am Yin
 - Used to mostly work with Java, now C#, Node.js, and React (Native)
 - I love back-end development
 - Experienced in full-stack development
+- DevOps when I feel like it
