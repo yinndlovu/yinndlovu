@@ -3,7 +3,7 @@
 I am Yin
 
 - I'm a Computer Science graduate
-- Used to mostly work with Java, now C#, Node.js, and React (Native)
+- Mostly work with Java, C#, Node.js & React
 - I love back-end development
 - Experienced in full-stack development
 - DevOps when I feel like it
