@@ -2,7 +2,7 @@
 
 I am Yin
 
-- Mostly work with Java, C#, Node.js & React
+- Mostly work with Java, C#, and Node.js
 - I love back-end development
 - Experienced in full-stack development
 - My website at [yinn.dev](https://yinn.dev/)
